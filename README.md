@@ -1,6 +1,9 @@
-
 # VeilVision 🎭
+
+![VeilVision Demo](demo_3.gif)
+
 ### Privacy-Preserving Anonymization for Dashcam & CCTV Footage
+
 
 > Automatically detects and anonymizes **faces** and **license plates** in images and videos to ensure GDPR compliance before sharing or storing footage.
 
